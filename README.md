@@ -1,6 +1,8 @@
 
 # Grade Calculator
+## Authors
 
+- **Kevin Wahome** - UMass Lowell, Computer Science
 ---
 This is a simple Java console application that calculates the final grade based on user inputs for homework, quizzes, and exam scores. The user is required to input the weights and percentages for each category, and the application will calculate and display the final grade.
 
@@ -99,9 +101,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-## Authors
-
-- **Kevin Wahome** - UMass Lowell, Computer Science
 
 ---
